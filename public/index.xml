@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Coder&#39;s Dao Blog</title>
+    <link>https://theCodersBlogger.github.io/Blog/</link>
+    <description>Recent content on The Coder&#39;s Dao Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2022 17:06:52 -0400</lastBuildDate><atom:link href="https://theCodersBlogger.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://theCodersBlogger.github.io/Blog/posts/first-post/</link>
+      <pubDate>Fri, 14 Oct 2022 17:06:52 -0400</pubDate>
+      
+      <guid>https://theCodersBlogger.github.io/Blog/posts/first-post/</guid>
+      <description>Officially launching the blog. Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
