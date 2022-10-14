@@ -1,0 +1,18 @@
+baseURL = "https://theCodersBlogger.github.io/Blog/"
+languageCode = "en-us"
+title = "The Coder's Dao Blog"
+theme = "m10c"
+
+[params]
+  author = "AJ Igherighe"
+  description = "A look into an alternate look at the world."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/theCodersBlogger"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "TBD"
